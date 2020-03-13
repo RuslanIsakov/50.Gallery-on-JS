@@ -50,3 +50,8 @@
     flex: 33.33%;
   }
 }
+@media screen and (max-width:768px) {
+  .gallery-section .image{
+    flex: 50%;
+  }
+}
