@@ -27,3 +27,8 @@
   background: #333;
   margin: 60px auto;
 }
+.gallery-section .gallery{
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+}
