@@ -32,3 +32,8 @@
   flex-wrap: wrap-reverse;
   justify-content: center;
 }
+.gallery-section .image{
+  flex: 25%;
+  overflow: hidden;
+  cursor: pointer;
+}
