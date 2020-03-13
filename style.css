@@ -45,3 +45,8 @@
 .gallery-section .image:hover img{
   transform: scale(1.4) rotate(15deg);
 }
+@media screen and (max-width:960px) {
+  .gallery-section .image{
+    flex: 33.33%;
+  }
+}
