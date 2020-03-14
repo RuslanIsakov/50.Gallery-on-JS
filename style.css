@@ -55,3 +55,9 @@
     flex: 50%;
   }
 }
+
+@media screen and (max-width:480px) {
+  .gallery-section .image{
+    flex: 100%;
+  }
+}
